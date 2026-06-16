@@ -89,7 +89,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nzb8EcPaMIg3N2Zl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/AnimeRips')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Anime_Rips')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+nzb8EcPaMIg3N2Zl') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/AnimeRips_owner')
 
